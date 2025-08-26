@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "Plantilla - Reto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Lets Warm Up"
+              "title": "Plantilla - Reto"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "Plantilla - Reto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-Lets Warm Up"
+              "title": "Backlinks for Plantilla - Reto"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "Plantilla - Reto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01-Lets Warm Up"
+              "title": "Outgoing links from Plantilla - Reto"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "Plantilla - Reto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Lets Warm Up"
+              "title": "Outline of Plantilla - Reto"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "14ba86c4e51f324d",
   "lastOpenFiles": [
-    "Reto.md",
     "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+    "Plantilla - Reto.md",
     "picoCTF/01 - General Skills",
     "README.md",
     "picoCTF",
