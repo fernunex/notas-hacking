@@ -6,7 +6,6 @@
       {
         "id": "7446e5f4f519bb1c",
         "type": "tabs",
-        "dimension": 62.87215411558669,
         "children": [
           {
             "id": "9d0b28cc8cd91c08",
@@ -28,33 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tareas/01- General skills/10-Special.md",
+                "file": "picoCTF/Actividades en clase/04- Web 1/03-logon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Special"
+              "title": "03-logon"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "794ff86f630caa42",
-        "type": "tabs",
-        "dimension": 37.127845884413304,
-        "children": [
-          {
-            "id": "4d8b58972b5bde81",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -204,6 +186,19 @@
   },
   "active": "c8d2c74594a2e02c",
   "lastOpenFiles": [
+    "Pasted image 20250916170249.png",
+    "picoCTF/Actividades en clase/04- Web 1/04-where are the robots.md",
+    "picoCTF/Actividades en clase/04- Web 1/03-logon.md",
+    "picoCTF/Actividades en clase/04- Web 1/06-picobrowser.md",
+    "picoCTF/Actividades en clase/04- Web 1/05-Client-side-again.md",
+    "picoCTF/Actividades en clase/04- Web 1/02-Insp3ct0r.md",
+    "picoCTF/Actividades en clase/04- Web 1/01-dont-use-client-side.md",
+    "Plantilla - Reto 1.md",
+    "Plantilla - Reto.md",
+    "Pasted image 20250905110452.png",
+    "Pasted image 20250905092239.png",
+    "picoCTF/Tareas/01- General skills/10-Special.md",
+    "picoCTF/Actividades en clase/04- Web 1",
     "picoCTF/Tareas/01- General skills/09-Permissions.md",
     "picoCTF/Tareas/01- General skills/08-chrono.md",
     "picoCTF/Tareas/01- General skills/07-ASCII Numbers.md",
@@ -212,25 +207,14 @@
     "picoCTF/Tareas/01- General skills/04-Collaborative Development.md",
     "picoCTF/Tareas/01- General skills/03-Blame Game.md",
     "picoCTF/Tareas/01- General skills/02-binhexa.md",
-    "Pasted image 20250905110452.png",
     "picoCTF/Tareas/01- General skills/01-Binary Search.md",
-    "Pasted image 20250905092239.png",
     "picoCTF/Tareas/01- General skills/0.md",
     "README.md",
-    "picoCTF/Tareas/01- General skills/10-Special.md",
     "picoCTF/Tareas/01- General skills/10.md",
     "picoCTF/Tareas/01- General skills/09.md",
     "picoCTF/Tareas/01- General skills/08.md",
     "picoCTF/Tareas/01- General skills/07.md",
     "picoCTF/Tareas/01- General skills/06.md",
-    "picoCTF/Tareas/01- General skills/05.md",
-    "picoCTF/Tareas/01- General skills/04.md",
-    "picoCTF/Tareas/01- General skills/03.md",
-    "picoCTF/Tareas/01- General skills/02.md",
-    "picoCTF/Tareas/01- General skills/01.md",
-    "picoCTF/Tareas/01- General skills/0 9.md",
-    "picoCTF/Tareas/01- General skills/0-{1...9}.md",
-    "picoCTF/Tareas/01- General skills/0-{1-9}.md",
     "picoCTF/Actividades en clase/03 - General Skills",
     "picoCTF/Tareas/01- General skills",
     "picoCTF/Actividades en clase",
