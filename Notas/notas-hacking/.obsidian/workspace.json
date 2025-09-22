@@ -11,6 +11,30 @@
             "id": "70c383440143eb32",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250905092239.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250905092239"
+            }
+          },
+          {
+            "id": "1b7af5e3fe9b3ccd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250905110452.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250905110452"
+            }
+          },
+          {
+            "id": "9875b3e36ce0a0ef",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
@@ -21,7 +45,8 @@
               "title": "01-Cookies"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,21 +194,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "70c383440143eb32",
+  "active": "9875b3e36ce0a0ef",
   "lastOpenFiles": [
-    "Pasted image 20250921185626.png",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/03-getAhead.md",
-    "Pasted image 20250921185619.png",
+    "images/Pasted image 20250921185619.png",
+    "images/Pasted image 20250916170249.png",
+    "images/Pasted image 20250905110452.png",
+    "images/Pasted image 20250905092239.png",
     "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
+    "images",
+    "images/Pasted image 20250921185626.png",
+    "picoCTF/Actividades en clase/09- picoCTF Web 2/03-getAhead.md",
     "Pastedimage20250921185048.png",
     "picoCTF/Actividades en clase/09- picoCTF Web 2/02-Scavenger Hunt.md",
     "picoCTF/Actividades en clase/09- picoCTF Web 2/Pasted image 20250921183431.png",
     "picoCTF/Actividades.md",
     "Welcome.md",
     "Paste.md",
-    "Pasted image 20250916170249.png",
-    "Pasted image 20250905110452.png",
-    "Pasted image 20250905092239.png",
     "picoCTF/Actividades en clase/04- Web 1/03-logon.md",
     "picoCTF/Actividades en clase/04- Web 1/02-Insp3ct0r.md",
     "picoCTF/Actividades en clase/04- Web 1/01-dont-use-client-side.md",

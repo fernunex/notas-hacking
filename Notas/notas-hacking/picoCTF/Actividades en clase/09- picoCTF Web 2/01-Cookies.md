@@ -17,7 +17,7 @@ for cookieNumber in {1..20}; do curl -s http://mercury.picoctf.net:21485/check -
 1. Es posible resolverlo con burpsuite llevando un ataque variando la cookie.
 	1. Interceptamos el GET que manda el cookie con redirigiendo la petición a burpsuite usando foxyproxy.
 	2. Con el Intruder le realizamos un ataque sniper con un payload numérico desde el 1 hasta el 20 y filtramos por la coincidencia de "picoCTF" en cada una de las respuestas:
-		![image](../../../Pasted%20image%2020250921185626.png)
+		![image](../../../images/Pasted%20image%2020250921185626.png)
 ## Referencias
 
 https://www.youtube.com/watch?v=LseQ-XWCXVo&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=13

@@ -33,7 +33,7 @@ Enter your guess: 196
 Congratulations! You guessed the correct number: 196
 ```
 4. El algoritmo de búsqueda binaria es:
-	![[Pasted image 20250905092239.png]]
+	![[../../../images/Pasted image 20250905092239.png]]
 
 5. Nos arrojo la flag: ```picoCTF{g00d_gu355_de9570b0}```
 ## Notas adicionales
