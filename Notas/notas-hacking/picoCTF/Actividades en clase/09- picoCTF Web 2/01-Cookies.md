@@ -23,10 +23,10 @@ for cookieNumber in {1..20}; do curl -s http://mercury.picoctf.net:21485/check -
 		![](../../../images/Pasted%20image%2020250921191724.png)
 
 2.  Tambiés es posible utilizando un script de python con un paquete que realiza peticiones web y otro de expresiones regulares:
-		image
+		![](../../../images/Pasted%20image%2020250922132507.png)
 
 
-![](../../../Pasted%20image%2020250921190947.png)
+
 ## Referencias
 
 https://www.youtube.com/watch?v=LseQ-XWCXVo&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=13

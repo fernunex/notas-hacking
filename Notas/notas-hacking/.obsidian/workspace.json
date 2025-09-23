@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70c383440143eb32",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250905092239.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905092239"
-            }
-          },
-          {
-            "id": "1b7af5e3fe9b3ccd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250905110452.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905110452"
-            }
-          },
-          {
             "id": "9875b3e36ce0a0ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
+                "file": "picoCTF/Actividades en clase/09- picoCTF Web 2/03-GET aHEAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Cookies"
+              "title": "03-GET aHEAD"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,22 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8d82f0d9f7bbb9b",
+  "active": "9875b3e36ce0a0ef",
   "lastOpenFiles": [
+    "picoCTF/Actividades en clase/09- picoCTF Web 2/02-Scavenger Hunt.md",
+    "picoCTF/Actividades en clase/09- picoCTF Web 2/03-GET aHEAD.md",
+    "images/Pasted image 20250922192627.png",
+    "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
+    "images/Pasted image 20250905092239.png",
+    "images/Pasted image 20250905110452.png",
+    "Pasted image 20250921190947.png",
+    "images/Pasted image 20250922132507.png",
+    "picoCTF/Actividades en clase/09- picoCTF Web 2/cookieBruteForce.py",
     "images/Pasted image 20250921191724.png",
     "images/Pasted image 20250921191056.png",
-    "Pasted image 20250921190947.png",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
     "images/Pasted image 20250921185619.png",
     "images/Pasted image 20250916170249.png",
-    "images/Pasted image 20250905110452.png",
-    "images/Pasted image 20250905092239.png",
     "images",
     "images/Pasted image 20250921185626.png",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/03-getAhead.md",
-    "Pastedimage20250921185048.png",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/02-Scavenger Hunt.md",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/Pasted image 20250921183431.png",
     "picoCTF/Actividades.md",
     "Welcome.md",
     "Paste.md",
@@ -239,7 +215,6 @@
     "picoCTF/Actividades en clase",
     "picoCTF/Tareas",
     "picoCTF/Actividades en clase/02-General Skills",
-    "picoCTF/Actividades en clase/01 - General Skills",
-    "picoCTF"
+    "picoCTF/Actividades en clase/01 - General Skills"
   ]
 }
