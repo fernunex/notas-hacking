@@ -11,17 +11,42 @@
             "id": "9875b3e36ce0a0ef",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20251002185530.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251002185530"
+            }
+          },
+          {
+            "id": "da84e6549a52337f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20251002182824.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251002182824"
+            }
+          },
+          {
+            "id": "7a00c8caf3a29dd9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividades en clase/12-picoCTF Forensic 1/05-What Lies Within.md",
+                "file": "picoCTF/Tareas/02- Retos Web/01-Includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-What Lies Within"
+              "title": "01-Includes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,52 +194,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "9875b3e36ce0a0ef",
+  "active": "7a00c8caf3a29dd9",
   "lastOpenFiles": [
+    "picoCTF/Tareas/02- Retos Web/02-Inspect HTML.md",
+    "picoCTF/Tareas/02- Retos Web/03-IntroToBurp.md",
+    "picoCTF/Tareas/02- Retos Web/04-Local Authority.md",
+    "picoCTF/Tareas/02- Retos Web/05-Unminify.md",
+    "picoCTF/Tareas/02- Retos Web/06-WebDecode.md",
+    "picoCTF/Tareas/02- Retos Web/07-Power Cookie.md",
+    "picoCTF/Tareas/02- Retos Web/08-Roboto Sans.md",
+    "picoCTF/Tareas/02- Retos Web/09-Secrets.md",
+    "picoCTF/Tareas/02- Retos Web/10-SQLiLite.md",
+    "images/Pasted image 20251003134302.png",
+    "images/Pasted image 20251003142228.png",
+    "images/Pasted image 20251003142054.png",
+    "picoCTF/Tareas/02- Retos Web/01-Includes.md",
+    "picoCTF/Tareas/02- Retos Web/0.md",
+    "Template - Challenge.md",
+    "images/Pasted image 20251002185530.png",
+    "images/Pasted image 20251002181334.png",
+    "images/Pasted image 20251002182824.png",
+    "picoCTF/Actividades en clase/12-picoCTF Forensic 1/05-What Lies Within.md",
+    "picoCTF/Tareas/02- Retos Web",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1/01-Glory of the Garden.md",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1/02-So Meta.md",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1/03-shark on wire 1.md",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1/04-extensions.md",
-    "picoCTF/Actividades en clase/12-picoCTF Forensic 1/05-What Lies Within.md",
-    "Pasted image 20251002185530.png",
-    "Pasted image 20251002182824.png",
-    "Pasted image 20251002181334.png",
-    "Pasted image 20251002180425.png",
+    "images/Pasted image 20251002180425.png",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1/0.md",
-    "Plantilla - Reto.md",
     "picoCTF/Actividades en clase/11-picoCTF Web 4/04-Most Cookies.md",
     "picoCTF/Actividades en clase/12-picoCTF Forensic 1",
     "picoCTF/Actividades en clase/11-picoCTF Web 4/03-Trickster.md",
     "picoCTF/Actividades en clase/11-picoCTF Web 4/02-SOAP.md",
-    "Pasted image 20250928121014.png",
+    "images/Pasted image 20250928121014.png",
     "picoCTF/Actividades en clase/11-picoCTF Web 4/01-MatchTheRegex.md",
     "picoCTF/Actividades en clase/11-picoCTF Web 4/0.md",
     "picoCTF/Actividades en clase/10-picoCTF Web 3/03-More SQLi.md",
     "picoCTF/Actividades en clase/11-picoCTF Web 4",
     "picoCTF/Actividades en clase/Untitled.md",
-    "picoCTF/Actividades en clase/10-picoCTF Web 3/02-JaWT Scratchpad.md",
-    "picoCTF/Actividades en clase/10-picoCTF Web 3/01-Irish-Name-Repo 1.md",
-    "picoCTF/Actividades en clase/10-picoCTF Web 3/0.md",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/03-GET aHEAD.md",
     "picoCTF/Actividades en clase/10-picoCTF Web 3",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/02-Scavenger Hunt.md",
     "images/Pasted image 20250922192627.png",
-    "picoCTF/Actividades en clase/09- picoCTF Web 2/01-Cookies.md",
     "images/Pasted image 20250905092239.png",
-    "images/Pasted image 20250905110452.png",
-    "Pasted image 20250921190947.png",
-    "images/Pasted image 20250922132507.png",
     "picoCTF/Actividades en clase/09- picoCTF Web 2/cookieBruteForce.py",
     "images",
-    "picoCTF/Actividades.md",
-    "Welcome.md",
-    "Paste.md",
-    "picoCTF/Actividades en clase/04- picoCTF Web 1/03-logon.md",
-    "picoCTF/Actividades en clase/04- picoCTF Web 1/02-Insp3ct0r.md",
     "picoCTF/Actividades en clase/09- picoCTF Web 2",
     "picoCTF/Actividades en clase/04- picoCTF Web 1",
     "picoCTF/Actividades en clase/03 - General Skills",
-    "picoCTF/Tareas/01- General skills",
-    "picoCTF/Actividades en clase"
+    "picoCTF/Tareas/01- General skills"
   ]
 }

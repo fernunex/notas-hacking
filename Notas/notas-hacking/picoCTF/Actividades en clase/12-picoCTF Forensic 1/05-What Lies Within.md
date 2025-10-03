@@ -5,7 +5,7 @@ There's something in the [building](https://jupiter.challenges.picoctf.org/stati
 1. Download the image.
 2. Upload it to a online stenography decoder https://stylesuxx.github.io/steganography/
 3. Decode it to find the flag:
-	![](../../../Pasted%20image%2020251002185530.png)
+	![](../../../images/Pasted%20image%2020251002185530.png)
 4. The flag is: ```picoCTF{h1d1ng_1n_th3_b1t5}``` 
 ## Notas adicionales
 1. We could use ```zsteg```as a console option for reading code embedded in the image.

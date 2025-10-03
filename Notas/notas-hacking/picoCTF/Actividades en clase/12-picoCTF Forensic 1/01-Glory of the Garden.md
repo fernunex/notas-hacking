@@ -9,7 +9,7 @@ This [garden](https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883
 
 ## Notas adicionales
 * Also, we could use an hexadecimal editor to view its raw data and find it manually.
-	![](../../../Pasted%20image%2020251002180425.png)
+	![](../../../images/Pasted%20image%2020251002180425.png)
 ## Referencias
 
 https://en.wikipedia.org/wiki/Hex_editor

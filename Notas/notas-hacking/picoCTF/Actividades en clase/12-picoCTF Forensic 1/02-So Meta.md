@@ -4,7 +4,7 @@ Find the flag in this [picture](https://jupiter.challenges.picoctf.org/static/00
 ## Solución
 1. Download the image.
 2. Check its metadata:
-	![](../../../Pasted%20image%2020251002181334.png)
+	![](../../../images/Pasted%20image%2020251002181334.png)
 	Flag: ```picoCTF{s0_m3ta_fec06741}```
 ## Notas adicionales
 1. It's possible to obtain the flag reading its binary data:

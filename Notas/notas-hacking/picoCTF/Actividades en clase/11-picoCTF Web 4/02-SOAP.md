@@ -17,7 +17,7 @@ The web project was rushed and no security assessment was done. Can you read the
 	 </ID>
 	 </data>
 	```
-	![](../../../Pasted%20image%2020250928121014.png)
+	![](../../../images/Pasted%20image%2020250928121014.png)
 3. La flag es: ```picoCTF{XML_3xtern@l_3nt1t1ty_0e13660d}```
 
 ## Notas adicionales
