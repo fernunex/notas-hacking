@@ -49,18 +49,40 @@
             "id": "a6fbc4cf5094768e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "picoCTF/Tareas/03- Forensic/10.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20251020205945.png"
               },
-              "icon": "lucide-file",
-              "title": "10"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020205945"
+            }
+          },
+          {
+            "id": "ef8076dc260df9fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20251020210006.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020210006"
+            }
+          },
+          {
+            "id": "316fa6572f7bde40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20251020205945.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251020205945"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,6 +232,12 @@
   },
   "active": "b8d82f0d9f7bbb9b",
   "lastOpenFiles": [
+    "images/Pasted image 20251020210006.png",
+    "images/Pasted image 20251020205945.png",
+    "picoCTF/Actividades en clase/17-picoCTF Crypto 2/01-rsa-pop-quiz.md",
+    "picoCTF/Actividades en clase/17-picoCTF Crypto 2/rsa 1.txt",
+    "picoCTF/Actividades en clase/17-picoCTF Crypto 2/rsa.txt",
+    "picoCTF/Actividades en clase/17-picoCTF Crypto 2",
     "picoCTF/Tareas/03- Forensic/09-St3g0.md",
     "picoCTF/Tareas/03- Forensic/08-Redaction gone wrong.md",
     "picoCTF/Tareas/03- Forensic/07-hideme.md",
@@ -219,7 +247,6 @@
     "picoCTF/Tareas/03- Forensic/03-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tareas/03- Forensic/02-information.md",
     "picoCTF/Tareas/03- Forensic/01-CanYouSee.md",
-    "picoCTF/Tareas/03- Forensic/10.md",
     "picoCTF/Actividades en clase/14-picoCTF Forensic 3/03-Matryoshka doll.md",
     "images/Pasted image 20251020165449.png",
     "Template - Challenge.md",
@@ -239,7 +266,6 @@
     "picoCTF/picoMini/05-Input Injection 1.md",
     "picoCTF/picoMini/04-Hidden in plainsight.md",
     "picoCTF/picoMini/03-Riddle Registry.md",
-    "picoCTF/picoMini/02-byp4s3d.md",
     "images/Pasted image 20251006185723.png",
     "images/Pasted image 20251006185503.png",
     "images/Pasted image 20251014205252.png",
@@ -247,14 +273,9 @@
     "images/Pasted image 20251014222229.png",
     "images/Pasted image 20251016104455.png",
     "picoCTF/picoMini/Pasted image 20251005103006.png",
-    "picoCTF/picoMini/Pasted image 20251005112425.png",
-    "images/Pasted image 20251004170639.png",
     "picoCTF/Actividades en clase/15-picoCTF Forensic 4",
     "picoCTF/Actividades en clase/14-picoCTF Forensic 3",
     "mystery 2",
-    "mystery 1",
-    "mystery",
-    "picoCTF/Actividades en clase/13-picoCTF Forensic 2",
-    "picoCTF/picoMini"
+    "mystery 1"
   ]
 }
