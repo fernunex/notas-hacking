@@ -73,12 +73,14 @@
             "id": "316fa6572f7bde40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251020205945.png"
+                "file": "picoCTF/Actividades en clase/17-picoCTF Crypto 2/01-rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251020205945"
+              "icon": "lucide-file",
+              "title": "01-rsa-pop-quiz"
             }
           }
         ],
@@ -230,10 +232,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8d82f0d9f7bbb9b",
+  "active": "316fa6572f7bde40",
   "lastOpenFiles": [
-    "images/Pasted image 20251020210006.png",
     "images/Pasted image 20251020205945.png",
+    "images/Pasted image 20251020210006.png",
     "picoCTF/Actividades en clase/17-picoCTF Crypto 2/01-rsa-pop-quiz.md",
     "picoCTF/Actividades en clase/17-picoCTF Crypto 2/rsa 1.txt",
     "picoCTF/Actividades en clase/17-picoCTF Crypto 2/rsa.txt",
