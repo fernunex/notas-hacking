@@ -4,13 +4,13 @@ Class, take your seats! It's PRIME-time for a quiz... `nc jupiter.challenges.pic
 ## Solution
 
 RSA - llave publica - asimetrico
-m   - mensaje original o mensaje en texto plano 
-c   - mensaje cifrado (ciphertext)
-p,q - son dos numeros primos distintos y muy grandes
-n   - es el modulo (lo compartes las llaves publica como privada)
-tn  - totient n (funcion de euler)
-e   - llave public - 65537 (exponente)  2 ^ 16 + 1
-d   - llave privada
+* m   - mensaje original o mensaje en texto plano 
+* c   - mensaje cifrado (ciphertext)
+* p,q - son dos numeros primos distintos y muy grandes
+* n   - es el modulo (lo compartes las llaves publica como privada)
+* tn  - totient n (funcion de euler)
+* e   - llave public - 65537 (exponente)  2 ^ 16 + 1
+* d   - llave privada
 
 Calculos
 n  = p * q
