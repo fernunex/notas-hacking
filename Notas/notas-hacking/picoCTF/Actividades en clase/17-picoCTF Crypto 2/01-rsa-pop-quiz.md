@@ -13,15 +13,15 @@ RSA - llave publica - asimetrico
 * d   - llave privada
 
 Calculos
-n  = p * q
-tn = (p -1) * (q-1)
-d = e ^ -1 (mod tn)	- pow(e, -1, tn)
+* n  = p * q
+* tn = (p -1) * (q-1)
+* d = e ^ -1 (mod tn)	- pow(e, -1, tn)
 
 Cifrar  
-c = m ^ e (mod n)	- pow(m, e, n)
+* c = m ^ e (mod n)	- pow(m, e, n)
 
 Decifrars
-m = c ^ d (mod n)	- pow(c, d, n)
+* m = c ^ d (mod n)	- pow(c, d, n)
 
 Paso 1: 4636878989
 
