@@ -73,14 +73,12 @@
             "id": "316fa6572f7bde40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/04-b00tl3gRSA3.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20251031141242.png"
               },
-              "icon": "lucide-file",
-              "title": "04-b00tl3gRSA3"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251031141242"
             }
           }
         ],
@@ -232,10 +230,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "316fa6572f7bde40",
+  "active": "b8d82f0d9f7bbb9b",
   "lastOpenFiles": [
-    "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/03-Mind your Ps and Qs.md",
+    "images/Pasted image 20251031141730.png",
+    "images/Pasted image 20251031141242.png",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/01-Pixelated.md",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/05-flags.md",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/04-read-my-cert.md",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/03-HideToSee.md",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/02-basic-mod1.md",
+    "picoCTF/Actividades en clase/14-picoCTF Forensic 3/03-Matryoshka doll.md",
+    "picoCTF/Actividades en clase/15-picoCTF Forensic 4/03-Disk, disk, sleuth!.md",
+    "picoCTF/Actividades en clase/15-picoCTF Forensic 4/02-Sleuthkit Intro.md",
+    "picoCTF/Actividades en clase/15-picoCTF Forensic 4/01-Milkslap.md",
+    "images/Pasted image 20251031151320.png",
+    "Template - Challenge.md",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/04-b00tl3gRSA3.md",
+    "picoCTF/Actividades en clase/19-picoCTF Crypto 4",
+    "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/03-Mind your Ps and Qs.md",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/02-b00tl3gRSA2.md",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/01-miniRSA.md",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa(1).txt",
@@ -247,11 +259,9 @@
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3/__MACOSX",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3",
     "picoCTF/Actividades en clase/17-picoCTF Crypto 2/01-rsa-pop-quiz.md",
-    "Template - Challenge.md",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3",
     "images/Pasted image 20251020205945.png",
     "images/Pasted image 20251020210006.png",
-    "picoCTF/Actividades en clase/17-picoCTF Crypto 2/rsa 1.txt",
     "picoCTF/Tareas/03- Forensic/09-St3g0.md",
     "picoCTF/Tareas/03- Forensic/08-Redaction gone wrong.md",
     "picoCTF/Tareas/03- Forensic/07-hideme.md",
@@ -261,23 +271,11 @@
     "picoCTF/Tareas/03- Forensic/03-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tareas/03- Forensic/02-information.md",
     "picoCTF/Tareas/03- Forensic/01-CanYouSee.md",
-    "picoCTF/Actividades en clase/14-picoCTF Forensic 3/03-Matryoshka doll.md",
     "images/Pasted image 20251020165449.png",
     "picoCTF/Actividades en clase/16-picoCTF Crypto 1/08-interencdec.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/07-waves over lambda.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/06-Tapping.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/05-la cifra de.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/04-Easy 1.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/03-Cesar.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/02-13.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/01-The numbers.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/0.md",
     "images/Pasted image 20251006185723.png",
     "images/Pasted image 20251006185503.png",
     "images/Pasted image 20251014205252.png",
-    "images/Pasted image 20251014221754.png",
-    "images/Pasted image 20251014222229.png",
-    "images/Pasted image 20251016104455.png",
-    "picoCTF/picoMini/Pasted image 20251005103006.png"
+    "images/Pasted image 20251014221754.png"
   ]
 }
