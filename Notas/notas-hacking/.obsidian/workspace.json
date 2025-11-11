@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tareas/04- Crypto/05-rail-fence.md",
+                "file": "picoCTF/Actividades en clase/20-picoCTF Reversing 1/05-vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-rail-fence"
+              "title": "05-vault-door-5"
             }
           }
         ]
@@ -171,13 +171,22 @@
   },
   "active": "316fa6572f7bde40",
   "lastOpenFiles": [
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/03-vault-door-4.md",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/03-vault-door-3.md",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/02-vault-door-1.md",
+    "Pasted image 20251110205505.png",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/01-vault-door-training.md",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/04-vault-door-4.md",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1/05-vault-door-5.md",
+    "Template - Challenge.md",
+    "picoCTF/Tareas/04- Crypto/05-rail-fence.md",
+    "picoCTF/Actividades en clase/20-picoCTF Reversing 1",
     "picoCTF/Tareas/04- Crypto/08-substitution2.md",
     "picoCTF/Tareas/04- Crypto/09-Vigenere.md",
     "picoCTF/Tareas/04- Crypto/01-EVEN RSA CAN BE BROKEN???.md",
     "picoCTF/Tareas/04- Crypto/02-Crack the Power.md",
     "picoCTF/Tareas/04- Crypto/03-credstuff.md",
     "picoCTF/Tareas/04- Crypto/04-morse-code.md",
-    "picoCTF/Tareas/04- Crypto/05-rail-fence.md",
     "picoCTF/Tareas/04- Crypto/06-substitution0.md",
     "picoCTF/Tareas/04- Crypto/07-substitution1.md",
     "images/Pasted image 20251101204327.png",
@@ -191,15 +200,9 @@
     "picoCTF/Actividades en clase/16-picoCTF Crypto 1/06-Tapping.md",
     "picoCTF/Actividades en clase/16-picoCTF Crypto 1/03-Cesar.md",
     "picoCTF/Actividades en clase/16-picoCTF Crypto 1/04-Easy 1.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/05-la cifra de.md",
-    "picoCTF/Actividades en clase/16-picoCTF Crypto 1/07-waves over lambda.md",
-    "picoCTF/Actividades en clase/17-picoCTF Crypto 2/01-rsa-pop-quiz.md",
-    "Template - Challenge.md",
     "images/Pasted image 20251031141242.png",
     "picoCTF/Tareas/04- Crypto",
     "images/Pasted image 20251031141730.png",
-    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/05-flags.md",
-    "picoCTF/Actividades en clase/19-picoCTF Crypto 4/04-read-my-cert.md",
     "images/Pasted image 20251031151320.png",
     "picoCTF/Actividades en clase/19-picoCTF Crypto 4",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa(1).txt",
@@ -209,12 +212,10 @@
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3/s2.py",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3/s1.py",
     "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3/__MACOSX",
-    "picoCTF/Actividades en clase/18-pictoCTF Crypto 3/rsa-parte-3",
     "images/Pasted image 20251020205945.png",
     "images/Pasted image 20251020210006.png",
     "images/Pasted image 20251020165449.png",
     "images/Pasted image 20251006185723.png",
-    "images/Pasted image 20251006185503.png",
-    "images/Pasted image 20251014205252.png"
+    "images/Pasted image 20251006185503.png"
   ]
 }
