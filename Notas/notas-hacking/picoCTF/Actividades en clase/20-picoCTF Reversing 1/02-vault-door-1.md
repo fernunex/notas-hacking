@@ -4,7 +4,7 @@ This vault uses some complicated arrays! I hope you can make sense of it, specia
 ## Solution
 1. Download the code.
 2. Read the code and extract this part in another file:
-	![](../../../Pasted%20image%2020251110205505.png)
+	![](../../../images/Pasted%20image%2020251110205505.png)
 	with the following command: ```tail VaultDoor1.java -n 34 | head -n 32 > flag.txt```
 
 3. Make all digits of two digits number (1 -> 01).
